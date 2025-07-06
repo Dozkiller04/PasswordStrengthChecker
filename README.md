@@ -91,8 +91,9 @@ It then classifies the password as:
 
 ## 🎬 Project Demo (with Voice-over)
 
-📽️ **Watch Full Demo on Google Drive**
-👉 [Click here to watch](https://drive.google.com/file/d/1AnbJfn0IfItNJf6TrMCYphfrvTJ5-act/view?usp=drive_link)
+📽️ **Watch Full Demo on Google Drive**  
+👉 [Click here to watch](https://drive.google.com/file/d/19Xc1RWjNX8HsIyUaqXS_SUMRLo0zpZ5C/view?usp=drive_link)
+
 
 ---
 
