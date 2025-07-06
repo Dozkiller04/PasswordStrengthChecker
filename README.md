@@ -31,58 +31,84 @@ cd Password_Strength_Checker
 python password_checker.py
 ```
 
+Here’s your **corrected and properly formatted `README` section**, with working **hyperlinked screenshots** and **demo video**, exactly as needed:
+
 ---
 
-⚙️ How to Use
-Run the script
+````markdown
+## ⚙️ How to Use
 
-Enter any password when prompted
-The tool will analyze and output the password strength level:
+Run the script:
 
-⚠️ Weak
-👍 Moderate
-💪 Strong
+```bash
+python password_strength_checker.py
+````
 
-⚙️ How It Works
-The script asks the user to enter a password
+Then:
 
-Based on the structure, it checks:
+1. Enter any password when prompted
+2. The tool will analyze and output the password strength level:
 
-Length ≥ 8
+* ❌ Weak
+* ⚠️ Moderate
+* ✅ Strong
 
-Presence of uppercase letters (A-Z)
+---
 
-Presence of lowercase letters (a-z)
+## ⚙️ How It Works
 
-At least one digit (0-9)
+The script checks for:
 
-At least one special character (!@#$%^&* etc.)
+* Length ≥ 8 characters
+* At least one **uppercase** letter (A-Z)
+* At least one **lowercase** letter (a-z)
+* At least one **digit** (0-9)
+* At least one **special character** (!@#\$%^&\*)
 
-Classifies password as:
+It then classifies the password as:
 
-❌ Weak
-⚠️ Medium
-✅ Strong
+* ❌ Weak
+* ⚠️ Medium
+* ✅ Strong
 
-📸 Screenshots
-▶️ Script Asking for Input
-⚠️ Output for a Weak Password
-✅ Output for a Strong Password
+---
 
+## 📸 Screenshots
 
-🎬 Project Demo (with Voice-over)
-📽️ Watch full demo:
-👉 Click here to view on Google Drive
+### ▶️ Script Asking for Input
 
-🚀 Future Enhancements
-🔁 Real-time password strength indicator during typing
-🌐 GUI version with Tkinter
-📊 Password analysis reports
-🧠 Dictionary-based password vulnerability check
+[![Input Screenshot](https://raw.githubusercontent.com/Dozkiller04/PasswordStrengthChecker/main/screenshots/Script%20asking%20for%20input.png)](https://github.com/Dozkiller04/PasswordStrengthChecker/blob/main/screenshots/Script%20asking%20for%20input.png)
 
-👨‍💻 Author
-Soham Pramod Tayade
+### ⚠️ Output for a Weak Password
+
+[![Weak Password](https://raw.githubusercontent.com/Dozkiller04/PasswordStrengthChecker/main/screenshots/Output%20for%20a%20Weak%20Password.png)](https://github.com/Dozkiller04/PasswordStrengthChecker/blob/main/screenshots/Output%20for%20a%20Weak%20Password.png)
+
+### ✅ Output for a Strong Password
+
+[![Strong Password](https://raw.githubusercontent.com/Dozkiller04/PasswordStrengthChecker/main/screenshots/Output%20for%20a%20Strong%20Password.png)](https://github.com/Dozkiller04/PasswordStrengthChecker/blob/main/screenshots/Output%20for%20a%20Strong%20Password.png)
+
+---
+
+## 🎬 Project Demo (with Voice-over)
+
+📽️ **Watch Full Demo on Google Drive**
+👉 [Click here to watch](https://drive.google.com/file/d/1AnbJfn0IfItNJf6TrMCYphfrvTJ5-act/view?usp=drive_link)
+
+---
+
+## 🚀 Future Enhancements
+
+* 🔁 Real-time password strength feedback while typing
+* 🌐 GUI version using Tkinter
+* 📊 Generate password analysis reports
+* 🧠 Check against common password dictionaries
+
+---
+
+## 👨‍💻 Author
+
+**Soham Pramod Tayade**
 🎓 BSc Cyber & Digital Science
 🏢 RISE Internship – Cybersecurity & Ethical Hacking
 📍 Pune, Maharashtra
-🔗 GitHub: Dozkiller04
+🔗 GitHub: [Dozkiller04](https://github.com/Dozkiller04)
